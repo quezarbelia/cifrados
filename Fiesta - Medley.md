@@ -4,11 +4,11 @@ artist:
 key: Am / Cm
 tempo: 
 ---
-# INTRO
+## INTRO
 [F] [G] [Am] [C] 
 [F] [G] [Am] [C/E] (x4)
 
-# I. CRISTO REY VENCEDOR
+## REY VENCEDOR
 [F]        [G]           [Am]
 Te levantaste con Poder
 [F]           [G]         [Am]
@@ -18,7 +18,7 @@ Hombre de Guerra El Gran Yo Soy
 [F]      [G]           [Am]                 [G/B]   [C]
 Tus enemigos están bajo tus pies.
 
-# CORO
+### CORO
  [C/E] [F]          [G]      [Am]
     Cristo Rey Vencedor
     [F]          [G]      [Am]
@@ -26,7 +26,7 @@ Tus enemigos están bajo tus pies.
       [F]        [G]      [Am]    [F]       [Am]   [G]
 Tu victoria es mi victoria, Cristo, Cristo.
 
-# PUENTE
+### PUENTE
  [F]        [G]
 Vencedor Vencedor
 [Am]
@@ -34,10 +34,10 @@ Cristo Rey Vencedor
 
 ---
 
-# II. FIESTA (Modulación a Cm)
+## FIESTA (Modulación a Cm)
 [Cm] [Fm] [Bb] [G]
 
-# ADORACIÓN CELESTIAL
+### Verso 1
 [Cm]                             [Fm]
 Lo que se canta en el Cielo, cantamos en la tierra
 [Bb]                             [G]
@@ -50,7 +50,7 @@ Al que se adora en el Cielo, adoramos en la tierra
 [F#]         [Eb]     [Fm]          [G]
 Al Santo, Digno, Al Cordero, Que vive para siempre
 
-# CORO FIESTA
+### CORO FIESTA
 [Cm]                       [Fm]
 Fiesta, hoy hacemos una fiesta
 [Bb]
@@ -65,13 +65,13 @@ En la tierra cantamos juntos
             [G]
 Gritamos, oh uh oh uh oh
 
-# INTERLUDIO & PUENTE
+### INTERLUDIO & PUENTE
 [Cm] [Fm] [Bb] [G]
 
 [Cm]      [Fm]      [Cm]           [Fm]
 //// Hacemos Fiesta, Hacemos Fiesta ////
 
-# CORO FIESTA (Final)
+### CORO FIESTA (Final)
 [Cm]                      [G#]
 Fiesta, hoy hacemos una fiesta
 [Bb]
@@ -81,10 +81,10 @@ Celebramos, oh uh oh uh oh
 
 ---
 
-# III. PREPAREMOS EL CAMINO (Regreso a Am)
+## Viene ya (Regreso a Am)
 [Am] [F] [C] [G]
 
-# VERSO
+### VERSO
 [Am]    [F]     [C]          [G]
 Preparemos el camino Cristo viene ya
 [Am]       [F]      [C]         [G]
@@ -95,7 +95,7 @@ Que se abran hoy las puertas él ya viene ya
 [Am]       [F]      [C]         [G]
 Volveremos adorarle por la eternidad.
 
-# FINAL (Viene Ya)
+### FINAL (Viene Ya)
      [F]     [C]          [G]    [Am]
 Viene ya mi amado, pronto lo veré
    [F]     [C]          [G]    [Am]
