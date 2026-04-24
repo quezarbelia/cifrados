@@ -4,10 +4,10 @@ artist: Bethel
 key: C
 tempo: "68"
 ---
-# INTRO
+## INTRO
 [Dm7]  [F]  [C] (x2)
 
-# VERSO
+## VERSO
 [Dm7]
 Me envuelve tu presencia,
 [F]            [C]
@@ -26,7 +26,7 @@ Más de lo que tú puedes hacer,
 [C]
 Te quiero a Ti.
 
-# CORO
+## CORO
 [F]
 Perdón Dios por hacer solo por hacer,
 [C/E]
@@ -45,11 +45,11 @@ Llévame hasta el principio,
 [F]             [C]
 Abro mi corazón a Ti.
 
-# PUENTE (x6)
+## PUENTE (x6)
 [Dm7]              [F]
 Te quiero a Ti, nada más.
 [Am7]              [G]
 Nada más, nada bastará.
 
-# INSTRUMENTAL
+## INSTRUMENTAL
 [Dm7] [F] [Am7] [G]
