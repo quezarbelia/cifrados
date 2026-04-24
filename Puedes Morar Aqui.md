@@ -4,10 +4,10 @@ artist: Theo Rubia
 key: D
 tempo: "135"
 ---
-# INTRO
+## INTRO
 [G]  [D]  [Bm]  [G]
 
-# VERSO
+### VERSO
 [D]                           [Em]      [Bm]            [G]
 Aquí está mi lámpara, está encendida
 [D]
@@ -17,7 +17,7 @@ El sonido de tus pasos
               ( [D]-[C#]-[B]-[A]-[B] )
 Hacia la puerta
 
-# PRE-CORO
+### PRE-CORO
 [F#m]             [G]
 Solo toca que
 [D]               [A]
@@ -27,7 +27,7 @@ Solo toca que
 [D]               [A]
 Yo Te abriré, Jesús
 
-# CORO
+### CORO
                   [G]                 [D]
 Ya me coloqué mis vestiduras blancas
                  [Bm]             [A]
@@ -37,7 +37,7 @@ Ven a reinar
          [A]  [F#m]   -    [G]    ([Bm]) [A]
 Maranatha,             maranatha
 
-# PUENTE
+### PUENTE
 [G]
 Hay fuego en Sus ojos
 [A]
@@ -56,7 +56,7 @@ Puedes morar aquí
 [F#m]
 Puedes morar aquí
 
-# Maranata 
+## Maranata 
 [G]
 La tierra clama
                [A]  [Bm]       [F#m]
@@ -94,10 +94,10 @@ Maranata ahora ven
 [F#]
 Rasga el cielo y desciende
 
-# INSTRUMENTAL
+### INSTRUMENTAL
 [Bm]
 
-# Que Ruja el León
+## Que Ruja el León
 [Bm]
 Descendiente de David
 [A]
