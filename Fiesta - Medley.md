@@ -1,5 +1,5 @@
 ---
-title: Cristo Rey Vencedor / Fiesta / Preparemos el Camino
+title: Fiesta - Medley
 artist: 
 key: Am / Cm
 tempo: 
