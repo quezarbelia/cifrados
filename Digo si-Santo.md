@@ -4,7 +4,7 @@ artist: Coalo Zamorano
 key: Bm
 tempo: "142"
 ---
-# VERSO 1
+## VERSO 1
 [Bm]           [A]      [D] [G]
 Eres rey de mi corazón
 [Bm]           [A]      [D] [Em]
@@ -23,13 +23,13 @@ Solo quiero agradarte a ti
 [Bm] [A] [D] [Em]
 Con todo mi ser
 
-# PRE CORO
+## PRE CORO
 [Em7]                       [Bm7]
 Me rindo a ti, Jesús, soy tuyo,
 [Em7]      [G7]    [D]       [A]
 Mi corazón vivirá por ti.
 
-# CORO
+## CORO
 [Bm]           [A]     [D] [G]
 Digo sí a tu voluntad
 [Bm]           [A]     [D] [Em7]
@@ -41,11 +41,11 @@ Digo sí al oír tu voz,
 [Em7]
 Sí, Señor
 
-# INTERLUDIO
+## INTERLUDIO
 [Bm] [A] [D] [G]
 [Bm] [A] [D] [Em]
 
-# VERSO 2
+## VERSO 2
 [Bm]           [A]      [D] [G]
 Mi confianza está puesta en ti
 [Bm]           [A]      [D] [Em]
@@ -64,13 +64,13 @@ Mi mirada está fija en ti
 [Bm] [A] [D] [Em]
 No se desviará
 
-# PRE CORO
+## PRE CORO
 [Em7]                       [Bm7]
 Me rindo a ti, Jesús, soy tuyo,
 [Em7]      [G7]    [D]       [A]
 Mi corazón vivirá por ti.
 
-# CORO x2
+## CORO x2
 [Bm]           [A]     [D] [G]
 Digo sí a tu voluntad
 [Bm]           [A]     [D] [Em7]
@@ -82,16 +82,16 @@ Digo sí al oír tu voz,
 [Em7]
 Sí, Señor
 
-# INSTRUMENTAL
+## INSTRUMENTAL
 [G] [Bm] [A] [F#m]
 [G] [Bm] [C#dim] [A]
 [G] [Bm] [A] [F#m]
 [G]
 
-# INSTRUMENTAL 2 x2
+## INSTRUMENTAL 2 x2
 [D] [Em7] [Bm] [G] [A]
 
-# PUENTE
+## PUENTE
 [D]          [Em7]  [Bm]      [G] [A]
 Por los siglos eres Dios
 [D]          [Em7]     [Bm]   [G] [A]
@@ -101,11 +101,11 @@ Cada tribu y nación
 [D]       [Em7] [Bm]      [G]
 Cantarán en alta voz.
 
-# PRE CORO 2
+## PRE CORO 2
 [G] [Bm] [A] [F#m] [G] [G] [Bm] [C#dim] [A] [G] [G] [Bm] [A] [F#m] [G]
 Santo, Santo Santo,
 
-# CORO 2
+## CORO 2
 [D] [Em7] [Bm] [G] [A] [D]
 Eres tú Rey eterno
 [Em7] [Bm]    [G] [A]
@@ -121,16 +121,16 @@ Tú eres Santo
 [Bm] [A] [D] [Em]
 Tú eres Santo
 
-# PUENTE 2 x3
+## PUENTE 2 x3
 [Bm]           [A]       [D]
 Santo, Santo, Santo
 [G]    [Bm] [A] [D] [Em]
 eres tú
 
-# INTERLUDIO
+## INTERLUDIO
 [G]
 
-# CORO 3
+## CORO 3
 [D] [Em7] [Bm] [G] [A] [D]
 Eres tú Rey eterno
 [Em7] [Bm]    [G] [A]
@@ -140,7 +140,7 @@ Eres tú Rey eterno
 [Em7] [Bm]    [G] [A]
 Soberano eres luz
 
-# CORO 3
+## CORO 3
 [D] [Em7] [Bm] [G] [A] [D]
 Eres tú Rey eterno
 [Em7] [Bm]    [G] [A]
@@ -148,13 +148,13 @@ Soberano eres luz
 [Bm7] [A/C#] [D] [Em7]
 Eres tú  
 
-# REPITE x6
+## REPITE x6
 [D]
 Tú eres Santo.
 [Em7] [Bm] [G] [A]
 Ohohoh 
 
-# FINAL
+## FINAL
 [D]
 
 ---
