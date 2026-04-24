@@ -4,11 +4,11 @@ artist: La IBI
 key: Gm
 tempo: 116
 ---
-# INTRO
+## INTRO
 [Gm] [Bb] [Dm] [F]
 [Gm]
 
-# VERSO 1
+## VERSO 1
 [Gm]
 ¿Quién sino el Señor
               [Bb]
@@ -25,7 +25,7 @@ Truenos rugir?
                   [Cm]
 ¡Tus obras grandes son!
 
-# CORO
+## CORO
         [Eb]            [Bb]       [F]
 ¡Dios poderoso! Tú gobiernas la creación
         [Gm]          [Eb]
@@ -39,7 +39,7 @@ Llenas todo Tú, Señor
     [Bb]    [Dm]        [F]                [Gm]
 Te exaltaremos por siempre y siempre, oh Dios
 
-# INTERLUDIO
+## INTERLUDIO
 ([Bb] [Dm] [F])
 
 # VERSO 2
@@ -58,7 +58,7 @@ Por una cruz?
                    [Cm]
 ¡Tus planes grandes son!
 
-# CORO
+## CORO
         [Eb]            [Bb]       [F]
 ¡Dios poderoso! Tú gobiernas la creación
         [Gm]          [Eb]
@@ -72,7 +72,7 @@ Llenas todo Tú, Señor
     [Bb]    [Dm]        [F]                [Gm]
 Te exaltaremos por siempre y siempre, oh Dios
 
-# PUENTE
+## PUENTE
 ([Eb] [Gm] [Bb] [Dm])
 ([Eb] [Gm] [Bb] [Dm])
 
@@ -88,7 +88,7 @@ Todo es tuyo y para Ti
     [Eb]        [Gm]       [F]
 Oh Señor, oh gran Yo Soy
 
-# CORO
+## CORO
         [Eb]            [Bb]       [F]
 ¡Dios poderoso! Tú gobiernas la creación
         [Gm]          [Eb]
@@ -102,7 +102,7 @@ Llenas todo Tú, Señor
     [Bb]    [Dm]        [F]                [Gm]
 // Te exaltaremos por siempre y siempre, oh Dios //
 
-# FINAL
+## FINAL
    [F]               [Gm]
 Por siempre y siempre, oh Dios
 
